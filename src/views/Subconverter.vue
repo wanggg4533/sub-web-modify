@@ -478,6 +478,7 @@ export default {
           "sub.cm": "https://sub.cm/short",
         },
         customBackend: {
+          "自用后端": "https://websub.dscn.us.kg",
           "肥羊增强型后端【vless reality+anytls】": "https://api.v1.mk",
           "肥羊备用后端【vless reality+anytls】": "https://url.v1.mk",
         },
@@ -1416,6 +1417,7 @@ export default {
   }
 };
 </script>
+
 
 
 
